@@ -28,15 +28,7 @@ namespace ObjectOrientation
             {
                 s.DisplayInformation();
             }
-
-
     }
-
-        
-         
-       
-
-       
     }
     abstract public class Shoseki
     {
